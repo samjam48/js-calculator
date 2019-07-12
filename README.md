@@ -1,3 +1,10 @@
+# Repo for Javascript Calculator
+
+The FreeCodeCamp Javascript Calculator challenge and Founders and Coders pre-course exercise.
+
+
+## Challenge
+
 [Deets](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
 
 [CodePen Demo](https://codepen.io/freeCodeCamp/full/wgGVVX)
@@ -40,7 +47,7 @@ User Story #14: Pressing an operator immediately following = should start a new 
 User Story #15: My calculator should have several decimal places of precision when it comes to rounding (note that there is no exact standard, but you should be able to handle calculations like 2 / 7 with reasonable precision to at least 4 decimal places).
 
 
-### Bonus Stories
+### Bonus Stretch Stories
 
 BONUS Story #1: Have spaces between digits and operators in the expression
 
@@ -50,6 +57,6 @@ BONUS Story #3: Handle brackets
 
 BONUS Story #4: Add the % function.
 
-BONUS Story #5:Add the square root and square functions.
+BONUS Story #5: Add the square root and square functions.
 
-BONUS Story #6:Make it possibe to type in negative numbers (e.g -3).
+BONUS Story #6: Make it possibe to type in negative numbers (e.g -3).
