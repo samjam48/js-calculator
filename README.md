@@ -2,6 +2,8 @@
 
 The FreeCodeCamp Javascript Calculator challenge and Founders and Coders pre-course exercise.
 
+[Working Demo](https://samjam48.github.io/js-calculator/)
+
 
 ## Challenge
 
